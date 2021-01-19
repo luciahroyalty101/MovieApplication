@@ -5,7 +5,6 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 import static com.moringaschool.wallview1.Constants.BASE_URL;
-import static com.nese.movieapp.util.Constants.BASE_URL;
 
 public class ApiClient {
     static Retrofit retrofit;

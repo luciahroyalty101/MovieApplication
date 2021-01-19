@@ -24,12 +24,12 @@ public class MovieVideoResults implements Parcelable {
 
     public static final Creator<MovieVideoResults> CREATOR = new Creator<MovieVideoResults>() {
         @Override
-        public com.nese.movieapp.model.video.MovieVideoResults createFromParcel(Parcel in) {
+        public MovieVideoResults createFromParcel(Parcel in) {
             return new com.nese.movieapp.model.video.MovieVideoResults(in);
         }
 
         @Override
-        public com.nese.movieapp.model.video.MovieVideoResults[] newArray(int size) {
+        public MovieVideoResults[] newArray(int size) {
             return new com.nese.movieapp.model.video.MovieVideoResults[size];
         }
     };
