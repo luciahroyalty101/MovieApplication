@@ -8,7 +8,7 @@
 
 
 ## PROJECT SETUP INSTRUCTIONS
-Visit the link - https://github.com/luciahroyalty101/WallView-App
+Visit the link - https://github.com/luciahroyalty101/MovieApplication
 
 -Download and install Android SDK
 
@@ -19,7 +19,7 @@ Visit the link - https://github.com/luciahroyalty101/WallView-App
 - Run the application on the emulator
 
 ### Link to live site
-* https://github.com/luciahroyalty101/WallView-App
+* https://github.com/luciahroyalty101/MovieApplication
 
 ## TECHNOLOGIES USED
 * java
